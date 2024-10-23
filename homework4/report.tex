@@ -1,0 +1,85 @@
+\documentclass[UTF8]{ctexart}
+\usepackage{geometry, CJKutf8}
+\geometry{margin=1.5cm, vmargin={0pt,1cm}}
+\setlength{\topmargin}{-1cm}
+\setlength{\paperheight}{29.7cm}
+\setlength{\textheight}{25.3cm}
+
+% useful packages.
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage{layout}
+\usepackage{listings}
+\usepackage{float, caption}
+
+\lstset{
+    basicstyle=\ttfamily, basewidth=0.5em
+}
+
+% some common command
+\newcommand{\dif}{\mathrm{d}}
+\newcommand{\avg}[1]{\left\langle #1 \right\rangle}
+\newcommand{\difFrac}[2]{\frac{\dif #1}{\dif #2}}
+\newcommand{\pdfFrac}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\OFL}{\mathrm{OFL}}
+\newcommand{\UFL}{\mathrm{UFL}}
+\newcommand{\fl}{\mathrm{fl}}
+\newcommand{\op}{\odot}
+\newcommand{\Eabs}{E_{\mathrm{abs}}}
+\newcommand{\Erel}{E_{\mathrm{rel}}}
+
+\begin{document}
+
+\pagestyle{fancy}
+\fancyhead{}
+\lhead{王琰博, 3220105837}
+\chead{数据结构与算法第四次作业}
+\rhead{Oct.16th, 2024}
+
+\section{测试程序的设计思路}
+
+首先参考.h文件中++算法的实现完成了对--的重载。
+关于.c文件的书写。大致思路就是按照.h文件中函数的功能依照顺序进行测试。
+首先我创建了一个空链表，调用push函数向其中插入了元素，检验插入函数是否可用。然后再调用front和back验证其输出是否正确。然后再调用pop删除掉对应元素再次检查。随后调用insert函数插入元素后再次打印检查。
+然后再检验拷贝构造函数，移动函数。然后检测了链表的初始化功能，通过打印首位元素来检验输出是否正确。然后分别对该链表进行清除操作和清空操作，来检测erase函数和clear函数的正确性。最后测试了迭代器对链表进行正向遍历和反向遍历，来检测++和--是否有正确重载。
+\section{测试的结果}
+
+测试结果一切正常。
+
+输出为： 
+
+列表是否为空？true \par
+push\_front 和 push\_back 后的大小: 3 \par
+前面的元素: 5 \par
+后面的元素: 15 \par
+pop\_front 后，前面的元素: 10 \par
+pop\_back 后，后面的元素: 10 \par
+插入 20 到前面后，前面的元素: 20 \par
+复制后的列表前面的元素: 20 \par
+移动后的列表前面的元素: 20 \par
+移动后复制列表的大小: 0 \par
+赋值后的列表前面的元素: 20 \par
+初始化列表，前面的元素: 30 \par
+初始化列表，后面的元素: 50 \par
+删除第二个元素后，前面的元素: 30 \par
+删除第二个元素后，后面的元素: 50 \par
+清空列表后是否为空？true \par
+rangeList 中的元素: 1 2 3 4 5  \par
+逆向顺序中的元素: 5 4 3 2 1  \par
+我用 valgrind 进行测试，发现没有发生内存泄露。
+
+\section{bug报告}
+
+一切正常。
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 
+\end{document}
