@@ -1,0 +1,1752 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.11.4)  4 NOV 2024 19:56
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/danbao/Desktop/DataStructures/homework4/report.tex
+(/home/danbao/Desktop/DataStructures/homework4/report.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexart.cls (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-14 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count167
+\l__pdf_internal_box=\box45
+))
+Document Class: ctexart 2019/05/29 v2.4.16 Chinese adapter for class article (CTEX)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-02-14 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count168
+\g__xparse_grabber_int=\count169
+\l__xparse_m_args_int=\count170
+\l__xparse_v_nesting_int=\count171
+) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
+) (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
+) (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count172
+\l__ctex_tmp_box=\box46
+\l__ctex_tmp_dim=\dimen134
+\g__ctex_section_depth_int=\count173
+\g__ctex_font_size_int=\count174
+ (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
+) (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+) (/usr/share/texlive/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2019/05/29 v2.4.16 (pdf)LaTeX adapter (CTEX)
+ (/usr/share/texmf/tex/latex/CJK/CJKutf8.sty
+Package: CJKutf8 2015/04/18 4.8.4
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) (/usr/share/texmf/tex/latex/CJK/CJK.sty
+Package: CJK 2015/04/18 4.8.4
+ (/usr/share/texmf/tex/latex/CJK/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+) (/usr/share/texmf/tex/latex/CJK/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box47
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)) (/usr/share/texlive/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count183
+\CJKpunct@cntb=\count184
+\CJKpunct@cntc=\count185
+\CJKpunct@cntd=\count186
+\CJKpunct@cnte=\count187
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (/usr/share/texlive/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (/usr/share/texmf/tex/latex/CJK/CJKspace.sty
+Package: CJKspace 2015/04/18 3.8.0
+) (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2019/05/29 v2.4.16 Space info for CJKpunct (CTEX)
+) (/usr/share/texmf/tex/latex/CJK/CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
+ (/usr/share/texmf/tex/latex/CJK/CJKulem.sty
+Package: CJKulem 2015/04/18 4.8.4
+ (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box48
+\UL@hyphenbox=\box49
+\UL@skip=\skip49
+\UL@hook=\toks16
+\UL@height=\dimen136
+\UL@pe=\count188
+\UL@pixel=\dimen137
+\ULC@box=\box50
+Package: ulem 2019/11/18
+\ULdepth=\dimen138
+)
+\UL@lastkern=\dimen139
+\CJK@skip=\skip50
+)
+\CJK@fntefSkip=\skip51
+\CJK@nest=\count189
+\CJK@fntefDimen=\dimen140
+\CJK@underdotBox=\box51
+\CJK@ULbox=\box52
+\CJK@underanyskip=\dimen141
+)
+\ccwd=\dimen142
+\l__ctex_ccglue_skip=\skip52
+)
+\l__ctex_ziju_dim=\dimen143
+ (/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count190
+\l__zhnum_byte_min_int=\count191
+\l__zhnum_byte_max_int=\count192
+ (/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip53
+ (/usr/share/texlive/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2019/05/29 v2.4.16 Chinese scheme for article (CTEX)
+ (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2019/05/29 v2.4.16 Caption with encoding UTF8 (CTEX)
+)) (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2019/05/29 v2.4.16 c5size option (CTEX)
+) (/usr/share/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
+File: ctex-fontset-fandol.def 2019/05/29 v2.4.16 Fandol fonts definition (CTEX)
+
+
+/usr/share/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def:113: Critical Package ctex Error: CTeX fontset `fandol' is unavailable in current
+(ctex)                         mode.
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.113   }
+         
+
+LaTeX does not know anything more about this error, sorry.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+Reading the current file 'ctex-fontset-fandol' will stop.
+
+
+)) (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2019/05/29 v2.4.16 Configuration file (CTEX)
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen152
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks21
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks22
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks23
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
+\thm@preskip=\skip57
+\thm@postskip=\skip58
+\thm@headsep=\skip59
+\dth@everypar=\toks30
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count274
+\mult@box=\box55
+\multicol@leftmargin=\dimen163
+\c@unbalance=\count275
+\c@collectmore=\count276
+\doublecol@number=\count277
+\multicoltolerance=\count278
+\multicolpretolerance=\count279
+\full@width=\dimen164
+\page@free=\dimen165
+\premulticols=\dimen166
+\postmulticols=\dimen167
+\multicolsep=\skip60
+\multicolbaselineskip=\skip61
+\partial@page=\box56
+\last@line=\box57
+\maxbalancingoverflow=\dimen168
+\mult@rightbox=\box58
+\mult@grightbox=\box59
+\mult@gfirstbox=\box60
+\mult@firstbox=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\c@minrows=\count280
+\c@columnbadness=\count281
+\c@finalcolumnbadness=\count282
+\last@try=\dimen169
+\multicolovershoot=\dimen170
+\multicolundershoot=\dimen171
+\mult@nat@firstbox=\box99
+\colbreak@box=\box100
+\mc@col@check@num=\count283
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip62
+\f@nch@O@elh=\skip63
+\f@nch@O@erh=\skip64
+\f@nch@O@olh=\skip65
+\f@nch@O@orh=\skip66
+\f@nch@O@elf=\skip67
+\f@nch@O@erf=\skip68
+\f@nch@O@olf=\skip69
+\f@nch@O@orf=\skip70
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/layout.sty
+Package: layout 2014/10/28 v1.2c Show layout parameters
+\oneinch=\count284
+\cnt@paperwidth=\count285
+\cnt@paperheight=\count286
+\cnt@hoffset=\count287
+\cnt@voffset=\count288
+\cnt@textheight=\count289
+\cnt@textwidth=\count290
+\cnt@topmargin=\count291
+\cnt@oddsidemargin=\count292
+\cnt@evensidemargin=\count293
+\cnt@headheight=\count294
+\cnt@headsep=\count295
+\cnt@marginparsep=\count296
+\cnt@marginparwidth=\count297
+\cnt@marginparpush=\count298
+\cnt@footskip=\count299
+\fheight=\count300
+\ref@top=\count301
+\ref@hoffset=\count302
+\ref@voffset=\count303
+\ref@head=\count304
+\ref@body=\count305
+\ref@foot=\count306
+\ref@margin=\count307
+\ref@marginwidth=\count308
+\ref@marginpar=\count309
+\Interval=\count310
+\ExtraYPos=\count311
+\PositionX=\count312
+\PositionY=\count313
+\ArrowLength=\count314
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count315
+\lst@gtempboxa=\box101
+\lst@token=\toks32
+\lst@length=\count316
+\lst@currlwidth=\dimen172
+\lst@column=\count317
+\lst@pos=\count318
+\lst@lostspace=\dimen173
+\lst@width=\dimen174
+\lst@newlines=\count319
+\lst@lineno=\count320
+\lst@maxwidth=\dimen175
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count321
+\lst@skipnumbers=\count322
+\lst@framebox=\box102
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count323
+\float@exts=\toks33
+\float@box=\box103
+\@float@everytoks=\toks34
+\@floatcapt=\box104
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen176
+\captionmargin@=\dimen177
+\captionwidth=\dimen178
+\caption@tempdima=\dimen179
+\caption@indent=\dimen180
+\caption@parindent=\dimen181
+\caption@hangindent=\dimen182
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count324
+\c@continuedfloat=\count325
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+) (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+) (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+) (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+) (/home/danbao/Desktop/DataStructures/homework4/report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 37.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 528.93675pt, 42.67912pt)
+* v-part:(T,H,B)=(0.0pt, 766.51724pt, 28.45274pt)
+* \paperwidth=614.295pt
+* \paperheight=845.04675pt
+* \textwidth=528.93675pt
+* \textheight=719.8548pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-28.45274pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count326
+\scratchdimen=\dimen183
+\scratchbox=\box105
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen184
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
+\everyMPtoPDFconversion=\toks36
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\c@lstlisting=\count332
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for C70+song on input line 45.
+LaTeX Font Info:    No file C70song.fd. on input line 45.
+
+
+LaTeX Font Warning: Font shape `C70/song/bx/n' undefined
+(Font)              using `C70/song/m/n' instead on input line 45.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+try@size@range ...extract@rangefontinfo font@info 
+                                                  <-*>@nil <@nnil 
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+<argument> @nil 
+                
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+<argument> def reserved@f 
+                          {extract@rangefontinfo <@nnil }upper@bound 0*p@ if...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Argument of extract@rangefontinfo has an extra }.
+<inserted text> 
+                par 
+l.45 \section{测试程序的设计思路}
+                                          
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+@nnil 
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Paragraph ended before extract@rangefontinfo was complete.
+<to be read again> 
+                   par 
+l.45 \section{测试程序的设计思路}
+                                          
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+<argument> ...served@f @empty fi fi fi reserved@f 
+                                                  
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+try@size@substitution ...b maxdimen let best@size 
+                                                  @empty expandafter try@sim...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+try@size@substitution ...er try@simples font@info 
+                                                  <number @M >@nil <@nnil 
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45: Undefined control sequence.
+tryif@simple #1-#2tryif@simple ->let reserved@f 
+                                                try@simples if >#2dimen@ #1p...
+l.45 \section{测试程序的设计思路}
+                                          
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 9705 strings out of 481312
+ 165167 string characters out of 5921959
+ 423886 words of memory out of 5000000
+ 24792 multiletter control sequences out of 15000+600000
+ 533650 words of font info for 29 fonts, out of 8000000 for 9000
+ 1096 hyphenation exceptions out of 8191
+ 107i,1n,204p,856b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+/home/danbao/Desktop/DataStructures/homework4/report.tex:45:  ==> Fatal error occurred, no output PDF file produced!
